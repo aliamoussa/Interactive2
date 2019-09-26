@@ -1,0 +1,36 @@
+body {
+    background-color: white;
+    margin-left: 50px;
+    margin-top: 50px;
+    font-family: avenir;
+    font-size: 20px;
+    line-height: 30px;
+    color: navy;
+    font-weight: bold;
+    font-style: normal;
+    position: center;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: subpixel-antialiased;
+  }
+
+  h1 {
+    font-size: 40px;
+  }
+
+  p {
+    font-size: 17px;
+    line-height: 40px;
+  }
+
+a {
+    font-size: 15px;
+
+  }
+
+a, a:visited {
+  color: #add8e6;
+}
+
+a:hover {
+  color: #d11000;
+}
