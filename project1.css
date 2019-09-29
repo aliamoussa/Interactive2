@@ -1,9 +1,10 @@
 body {
     background-color: white;
-    margin-left: 50px;
-    margin-top: 50px;
-    font-family: avenir;
-    font-size: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 200px;
+    font-family: futura;
+    font-size: 14px;
     line-height: 30px;
     color: navy;
     font-weight: bold;
@@ -14,23 +15,20 @@ body {
   }
 
   h1 {
+    font-family: futura;
     font-size: 40px;
+    color: black;
   }
 
   p {
-    font-size: 17px;
-    line-height: 40px;
+    font-family: avenir;
+    font-size: 13px;
+    color: black;
+    line-height: 20px;
   }
 
 a {
     font-size: 15px;
+    color: black;
 
   }
-
-a, a:visited {
-  color: #add8e6;
-}
-
-a:hover {
-  color: #d11000;
-}
