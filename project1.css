@@ -3,9 +3,10 @@ body {
     margin-left: 100px;
     margin-right: 100px;
     margin-top: 300px;
+    margin-bottom: 100px;
     font-family: futura;
     font-size: 14px;
-    line-height: 30px;
+    line-height: 40px;
     color: red;
     font-weight: bold;
     font-style: normal;
