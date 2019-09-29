@@ -2,11 +2,11 @@ body {
     background-color: white;
     margin-left: 100px;
     margin-right: 100px;
-    margin-top: 200px;
+    margin-top: 300px;
     font-family: futura;
     font-size: 14px;
     line-height: 30px;
-    color: navy;
+    color: red;
     font-weight: bold;
     font-style: normal;
     position: center;
@@ -31,6 +31,7 @@ body {
 .image {
   width: 100%;
   height: auto;
+  padding: 15px;
 }
 
 .overlay {
