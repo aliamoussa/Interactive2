@@ -5,7 +5,7 @@ body {
     font-family: avenir;
     font-size: 20px;
     line-height: 30px;
-    color: navy;
+    color: black;
     font-weight: bold;
     font-style: normal;
     position: center;
@@ -13,14 +13,29 @@ body {
     -webkit-font-smoothing: subpixel-antialiased;
   }
 
-  h1 {
-    font-size: 40px;
+h1 {
     font-family: futura;
+    font-size: 40px;
   }
 
+h2 {
+    font-family: futura;
+    font-size: 40px;
+  }
+
+h3 {
+    font-family: futura;
+    font-size: 40px;
+  }
+
+ul {
+    font-family: futura;
+    font-size: 20px;
+}
+
   p {
-    font-size: 17px;
-    line-height: 40px;
+    font-size: 15px;
+    font-family: futura;
   }
 
 a {
@@ -29,9 +44,9 @@ a {
   }
 
 a, a:visited {
-  color: #add8e6;
+  color: red;
 }
 
 a:hover {
-  color: #d11000;
+  color: black;
 }
